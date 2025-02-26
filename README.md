@@ -33,7 +33,7 @@ Este repositório reúne uma coleção de exercícios resolvidos em **Python**, 
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   git clone [https://github.com/seuusuario/seu-repositorio.git](https://github.com/MatheusSilvaConceicao/Exercicios---Python.git)
    ```
 2. **Navegar até o Diretório Clonado:**
    ```bash
