@@ -60,4 +60,4 @@ Este repositório reúne uma coleção de exercícios resolvidos em **Python**, 
 
 ## 📞 Contato
 
-Estou aberto a oportunidades e colaborações. Você pode me encontrar no [LinkedIn](www.linkedin.com/in/matheusfernandesconceicao) ou entrar em contato pelo e-mail: **mconceicao1547@gmail.com**.
+Estou aberto a oportunidades e colaborações. Você pode me encontrar no [LinkedIn](http://www.linkedin.com/in/matheusfernandesconceicao) ou entrar em contato pelo e-mail: **mconceicao1547@gmail.com**.
