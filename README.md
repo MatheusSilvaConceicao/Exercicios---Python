@@ -15,7 +15,7 @@ Este repositório reúne uma coleção de exercícios resolvidos em **Python**, 
 ## 📂 Estrutura do Repositório
 
 - [**01 - Introdução ao Python:**](https://github.com/MatheusSilvaConceicao/Exercicios---Python/tree/64e5588c319f82d670d5e38e4a2f469f9a54c078/01%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python) Sintaxe básica, variáveis, tipos de dados.
-- **02 - Estruturas de Controle:** Condicionais, loops e manipulação de exceções.
+- [**02 - Estruturas de Controle:**](https://github.com/MatheusSilvaConceicao/Exercicios---Python/tree/fe13f23cf6557562ee549988613a3bca9cbc0e58/02%20-%20Estruturas%20de%20Controle) Condicionais, loops e manipulação de exceções.
 - **03 - Funções e Módulos:** Definição de funções, importação de módulos e pacotes.
 - **04 - Estruturas de Dados:** Listas, tuplas, dicionários e conjuntos.
 - **05 - Programação Orientada a Objetos:** Classes, herança, polimorfismo e encapsulamento.
