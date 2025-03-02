@@ -1,5 +1,6 @@
 #Calculadora
 n = float(0)
+n_user = " "
 
 def verificar_opcao(n_user):
     while True:
@@ -66,4 +67,4 @@ def operacao_zerar():
     n = 0
     print(n)
     
-verificar_opcao()
+verificar_opcao(n_user)
